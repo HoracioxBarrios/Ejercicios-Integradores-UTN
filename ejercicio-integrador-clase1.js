@@ -37,6 +37,7 @@ function mostrar() {
 
 
     //mostramos los 4 datos obtenidos por el usuario, mas el cuit generado
+    //utilizo \n para dar saltos de linea
     alert(" Razon Social: "+ razonSocial + "\n"
     + " Nombre del Titular: " + nombreTitular + "\n"
     + " Dni del titular: " + dniTitular + "\n"
